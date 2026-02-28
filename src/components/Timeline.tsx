@@ -20,8 +20,8 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">System Support Specialist</h3>
-            <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
+            <h3 className="vertical-timeline-element-title">System Support Tech L2</h3>
+            <h4 className="vertical-timeline-element-subtitle">Regina Airport, SK</h4>
             <p>
               Hardware Deployment • Server Installation • Preventive Maintenance • Network Cable Management • Airlines Application support • Software Troubleshooting • Teams Migration • MS Exchange • IT helpdesk
             </p>
