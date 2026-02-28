@@ -35,7 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">IT Administrator</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Application Support • IT Helpdesk • Server Administration • SharePoint • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
+              Active Directory • Group Policy (GPO) • User provisioning/access control • TCP/IP troubleshooting • Role-based access control (RBAC) • DHCP and IP management • John Deere Software Support • Server Administration • SharePoint Administration • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
