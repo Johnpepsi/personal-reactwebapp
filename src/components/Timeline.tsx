@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">System Support Specialist</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              System Support Specialist L2 • IT Helpdesk • Network Cable Installation • MS Administration • Hardware Deployments • Business Application Support
+              System Support Specialist L2 • IT Support • CMS Administration
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -35,7 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">IT Administrator</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Application Support • Active Directory • Level 2 technical support  • Role-based access control (RBAC) • Incident troubleshooting and root cause analysis • Group Policy configuration • IT Helpdesk • Server Administration • SharePoint Administration • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
+              Application Support • IT Helpdesk • Server Administration • SharePoint • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -47,7 +47,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Freelance Web Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Frontend Development • Modern Frameworks • Backend Development • Static Web apps
+              Full-stack Development • Frontend Development • Backend Development
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -59,7 +59,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Infrastructure Homelab</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Azure AD • Linux • Proxmox VE • Apache • Self-hosted web applications • LXC • Cisco Switch/Router Configuration • pFsense • Virtualization • Scripting • DNS • DHCP • File Servers • Active Directory • VMware • Hyper-V
+              Azure AD • Cisco Switch/Router Configuration • pFsense • Virtualization • Scripting • DNS • DHCP • File Servers • Active Directory • VMware • Hyper-V
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

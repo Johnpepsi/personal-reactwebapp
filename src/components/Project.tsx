@@ -53,8 +53,8 @@ function Project() {
                 <p>I learned to use calling the Properties, using array in such a clean code, also by importing JSX file in the right path of components.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/Johnpepsi/EcommerceTemplate_1" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/Johnpepsi/EcommerceTemplate_1" target="_blank" rel="noreferrer"><h2>Ecommerce Project</h2></a>
+                <a href="https://padayon.netlify.app/#home" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://padayon.netlify.app/#home" target="_blank" rel="noreferrer"><h2>Ecommerce Project</h2></a>
                 <p>Tech Stack: React, Node.js, Express, MongoDB. This project is a full-stack e-commerce application built with React for the front end and Node.js/Express for the back end.</p>
             </div>
             <div className="project">
