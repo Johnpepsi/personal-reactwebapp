@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">System Support Specialist</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Hardware Deployment • Network Cable Technician • Airlines Application support • Software Troubleshooting • Teams Migration • MS Exchange • IT helpdesk
+              Hardware Deployment • Server Installation • Preventive Maintenance • Network Cable Management • Airlines Application support • Software Troubleshooting • Teams Migration • MS Exchange • IT helpdesk
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
