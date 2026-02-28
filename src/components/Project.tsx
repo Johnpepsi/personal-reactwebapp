@@ -1,5 +1,5 @@
 import React from "react";
-import mock01 from '../assets/images/mock01.png';
+import mock01 from '../assets/images/mock08.png';
 import mock02 from '../assets/images/mock02.png';
 import mock03 from '../assets/images/mock03.png';
 import mock04 from '../assets/images/mock04.png';
@@ -8,7 +8,7 @@ import mock06 from '../assets/images/mock06.png';
 import mock07 from '../assets/images/mock07.png';
 import mock08 from '../assets/images/mock08.png';
 import mock09 from '../assets/images/mock09.png';
-import mock10 from '../assets/images/mock01.png';
+import mock10 from '../assets/images/mock07.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -63,9 +63,9 @@ function Project() {
                 <p>This project was meant to use for obtaining to learn API for utilizing fetch Data through JavaScript. Tools that I used in this project such was DOM, JS, APis.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/Johnpepsi/iOsCalculator" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/Johnpepsi/iOsCalculator" target="_blank" rel="noreferrer"><h2>iOs Calculator</h2></a>
-                <p>Developed and released an iOS mobile application using Swift and Xcode that functions as a fully-featured calculator.</p>
+                <a href="https://johnpepsi.github.io/portfolio-lang/" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://johnpepsi.github.io/portfolio-lang/" target="_blank" rel="noreferrer"><h2>About Me portfolio</h2></a>
+                <p>I've created a separate static webapp for showcasing my experience and homelab infrastructure. Currently building to includes images what hardware I used for hosting, and building severs.</p>
             </div>
         </div>
     </div>
