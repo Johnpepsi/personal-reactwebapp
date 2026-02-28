@@ -16,14 +16,14 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2025 - 2026"
+            date="2025 - Current"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">System Support Specialist</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              System Support Specialist L2 • IT Support • CMS Administration
+              System Support Specialist L2 • IT Helpdesk • Network Cable Installation • MS Administration • Hardware Deployments • Business Application Support
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -35,19 +35,19 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">IT Administrator</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Application Support • IT Helpdesk • Server Administration • SharePoint • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
+              Application Support • Active Directory • Level 2 technical support  • Role-based access control (RBAC) • Incident troubleshooting and root cause analysis • Group Policy configuration • IT Helpdesk • Server Administration • SharePoint Administration • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2024 - 2025"
+            date="2024 - Current"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Freelance Web Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Full-stack Development • Frontend Development • Backend Development
+              Frontend Development • Modern Frameworks • Backend Development • Static Web apps
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -59,7 +59,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Infrastructure Homelab</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Azure AD • Cisco Switch/Router Configuration • pFsense • Virtualization • Scripting • DNS • DHCP • File Servers • Active Directory • VMware • Hyper-V
+              Azure AD • Linux • Proxmox VE • Apache • Self-hosted web applications • LXC • Cisco Switch/Router Configuration • pFsense • Virtualization • Scripting • DNS • DHCP • File Servers • Active Directory • VMware • Hyper-V
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

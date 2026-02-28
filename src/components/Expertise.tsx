@@ -27,9 +27,9 @@ const labelsSecond = [
     "AWS",
     "Azure",
     "Linux",
-    "Snowflake",
-    "Pandas",
-    "Selenium",
+    "GitLab",
+    "Jenkins",
+    "Programming",
 ];
 
 const labelsThird = [
@@ -40,7 +40,7 @@ const labelsThird = [
     "File Servers",
     "Active Directory",
     "Server Management",
-    "VMware",
+    "Proxmox",
     "Hyper-V",
 ];
 
@@ -53,7 +53,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Full Stack Web Development</h3>
-                    <p>I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have experience in the SDLC process and frontend + backend development.</p>
+                    <p>Developed web applications using React and Flask, following structured development practices including requirement gathering, development, testing, and deployment. Maintained both frontend and backend components in a Linux server environment.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
@@ -65,7 +65,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
                     <h3>DevOps & Automation</h3>
-                    <p>Deployed and maintained containerized environments with Docker and Kubernetes, supporting microservices architecture and simplifying environment management.</p>
+                    <p>Deployed and managed Docker containers on Ubuntu servers to host internal tools and web applications. Implemented bind mounts, networking configuration, and restart policies to ensure service persistence and reliability.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
@@ -77,7 +77,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faWindows} size="3x"/>
                     <h3>System Administration</h3>
-                    <p>Deployed and integrated on-premises and cloud environments while applying enterprise-level security and automation practices. I leverage deep system administration expertise to enhance reliability, security, and efficiency across enterprise environments</p>
+                    <p>Administered Windows Servers and Linux in virtualized environments (Proxmox and VirtualBox). Managed Active Directory domain services, DHCP configuration, user account management, and system updates to maintain secure and stable infrastructure.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
