@@ -21,7 +21,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">System Support Tech L2</h3>
-            <h4 className="vertical-timeline-element-subtitle">Regina Airport, SK</h4>
+            <h4 className="vertical-timeline-element-subtitle">Regina Airport, Saskatchewan</h4>
             <p>
               Hardware Deployment • Server Installation • Preventive Maintenance • Network Cable Management • Airlines Application support • Software Troubleshooting • Teams Migration • MS Exchange • IT helpdesk
             </p>
@@ -33,7 +33,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">IT Administrator</h3>
-            <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
+            <h4 className="vertical-timeline-element-subtitle">Regina, Saskatchewan</h4>
             <p>
               Active Directory • Group Policy (GPO) • User provisioning/access control • TCP/IP troubleshooting • Role-based access control (RBAC) • DHCP and IP management • John Deere Software Support • Server Administration • SharePoint Administration • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
             </p>
@@ -45,7 +45,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Freelance Web Developer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
+            <h4 className="vertical-timeline-element-subtitle">Regina, Saskatchewan</h4>
             <p>
               Frontend Development • Backend Development • Static WebApp • Modern Frameworks • Hosting 
             </p>
@@ -57,7 +57,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Infrastructure Homelab</h3>
-            <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
+            <h4 className="vertical-timeline-element-subtitle">Regina, Saskatchewan</h4>
             <p>
               Proxmox VE • Apache • Raspberry Pi 4 • LAMP • Azure AD • Cisco Switch/Router Configuration • pFsense • Virtualization • Scripting • DNS • DHCP • File Servers • Active Directory • VMware • Hyper-V • Docker
             </p>

@@ -17,9 +17,9 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="http://www.goosecreekbernese.ca/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.goosecreekbernese.ca/" target="_blank" rel="noreferrer"><h2>Client Web Application</h2></a>
-                <p>Developed a static web application for a client that includes contact information, forms and service details, that was built in PHP for a backend communication. </p>
+                <a href="https://johnpepsi.github.io/portfolio-lang/" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://johnpepsi.github.io/portfolio-lang/" target="_blank" rel="noreferrer"><h2>About Me Portfolio</h2></a>
+                <p>I've created a separate static webapp for showcasing my experience and homelab infrastructure. Currently building to includes images what hardware I used for hosting, and building severs.</p>
             </div>
             <div className="project">
                 <a href="https://github.com/Johnpepsi/WarCardUI" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -63,9 +63,9 @@ function Project() {
                 <p>This project was meant to use for obtaining to learn API for utilizing fetch Data through JavaScript. Tools that I used in this project such was DOM, JS, APis.</p>
             </div>
             <div className="project">
-                <a href="https://johnpepsi.github.io/portfolio-lang/" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://johnpepsi.github.io/portfolio-lang/" target="_blank" rel="noreferrer"><h2>About Me portfolio</h2></a>
-                <p>I've created a separate static webapp for showcasing my experience and homelab infrastructure. Currently building to includes images what hardware I used for hosting, and building severs.</p>
+                <a href="http://www.goosecreekbernese.ca/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="http://www.goosecreekbernese.ca/" target="_blank" rel="noreferrer"><h2>Client Web Application</h2></a>
+                <p>Developed a static web application for a client that includes contact information, forms and service details, that was built in PHP for a backend communication. </p>
             </div>
         </div>
     </div>
