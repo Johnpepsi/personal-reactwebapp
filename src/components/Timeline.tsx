@@ -47,7 +47,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Freelance Web Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Full-stack Development • Frontend Development • Backend Development
+              Frontend Development • Backend Development • Static WebApp • Modern Frameworks • Hosting 
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -59,7 +59,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Infrastructure Homelab</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Azure AD • Cisco Switch/Router Configuration • pFsense • Virtualization • Scripting • DNS • DHCP • File Servers • Active Directory • VMware • Hyper-V
+              Proxmox VE • Apache • Raspberry Pi 4 • LAMP • Azure AD • Cisco Switch/Router Configuration • pFsense • Virtualization • Scripting • DNS • DHCP • File Servers • Active Directory • VMware • Hyper-V • Docker
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
