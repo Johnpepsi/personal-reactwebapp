@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/personal-reactwapp/static/css/main.357d6717.css",
-    "main.js": "/personal-reactwapp/static/js/main.e7f4d936.js",
-    "static/js/453.b05d8aa5.chunk.js": "/personal-reactwapp/static/js/453.b05d8aa5.chunk.js",
-    "static/media/profile.png": "/personal-reactwapp/static/media/profile.25ccdc7427865149f39c.png",
-    "static/media/mock09.png": "/personal-reactwapp/static/media/mock09.e18677ccfc932e52d754.png",
-    "static/media/mock08.png": "/personal-reactwapp/static/media/mock08.13f46873fdbd382f4b76.png",
-    "static/media/mock04.png": "/personal-reactwapp/static/media/mock04.f7b5679efade992a078c.png",
-    "static/media/bg-light.png": "/personal-reactwapp/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/mock07.png": "/personal-reactwapp/static/media/mock07.3f1110f482232b33c6a2.png",
-    "static/media/mock05.png": "/personal-reactwapp/static/media/mock05.4faafa70d200d1519a34.png",
-    "static/media/mock06.png": "/personal-reactwapp/static/media/mock06.ea816617e0d0fa0f63ca.png",
-    "static/media/bg-dark.png": "/personal-reactwapp/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock02.png": "/personal-reactwapp/static/media/mock02.bced48ae9cdda3acf1a3.png",
-    "static/media/mock03.png": "/personal-reactwapp/static/media/mock03.a4600719e0b5d2a3155b.png",
-    "index.html": "/personal-reactwapp/index.html",
-    "main.357d6717.css.map": "/personal-reactwapp/static/css/main.357d6717.css.map",
-    "main.e7f4d936.js.map": "/personal-reactwapp/static/js/main.e7f4d936.js.map",
-    "453.b05d8aa5.chunk.js.map": "/personal-reactwapp/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/personal-reactwebapp/static/css/main.ce9ebb88.css",
+    "main.js": "/personal-reactwebapp/static/js/main.be0513de.js",
+    "static/js/453.b05d8aa5.chunk.js": "/personal-reactwebapp/static/js/453.b05d8aa5.chunk.js",
+    "static/media/profile.png": "/personal-reactwebapp/static/media/profile.25ccdc7427865149f39c.png",
+    "static/media/mock09.png": "/personal-reactwebapp/static/media/mock09.e18677ccfc932e52d754.png",
+    "static/media/mock08.png": "/personal-reactwebapp/static/media/mock08.13f46873fdbd382f4b76.png",
+    "static/media/mock04.png": "/personal-reactwebapp/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/bg-light.png": "/personal-reactwebapp/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock07.png": "/personal-reactwebapp/static/media/mock07.3f1110f482232b33c6a2.png",
+    "static/media/mock05.png": "/personal-reactwebapp/static/media/mock05.4faafa70d200d1519a34.png",
+    "static/media/mock06.png": "/personal-reactwebapp/static/media/mock06.ea816617e0d0fa0f63ca.png",
+    "static/media/bg-dark.png": "/personal-reactwebapp/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock02.png": "/personal-reactwebapp/static/media/mock02.bced48ae9cdda3acf1a3.png",
+    "static/media/mock03.png": "/personal-reactwebapp/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "index.html": "/personal-reactwebapp/index.html",
+    "main.ce9ebb88.css.map": "/personal-reactwebapp/static/css/main.ce9ebb88.css.map",
+    "main.be0513de.js.map": "/personal-reactwebapp/static/js/main.be0513de.js.map",
+    "453.b05d8aa5.chunk.js.map": "/personal-reactwebapp/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.357d6717.css",
-    "static/js/main.e7f4d936.js"
+    "static/css/main.ce9ebb88.css",
+    "static/js/main.be0513de.js"
   ]
 }
