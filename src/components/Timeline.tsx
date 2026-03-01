@@ -47,7 +47,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Freelance Web Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, Saskatchewan</h4>
             <p>
-              Frontend Development • Backend Development • Static WebApp • Modern Frameworks • Hosting 
+              Frontend Development • HTTPS enforcement • Backend Development • React • API • Hosting Authentication • (JWT, sessions) • CI/CD basics • Email integration (contact forms) • CRUD operations • Domain & DNS management • Cloudflare • SEO optimization • Tailwind / Bootstrap • MySQL • NGINX • Reverse proxy 
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
