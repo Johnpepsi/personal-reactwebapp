@@ -35,7 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">IT Administrator</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, Saskatchewan</h4>
             <p>
-              Active Directory • Troubleshoot basic networking (DNS, DHCP, VPN) • Manage Group Policy (GPO) • User provisioning/access control • TCP/IP troubleshooting • Role-based access control (RBAC) • DHCP and IP management • John Deere Software Support • Server Administration • SharePoint Administration • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
+              Active Directory • Manage Group Policy (GPO) • TCP/IP troubleshooting • Role-based access control (RBAC) • DHCP / IP management • John Deere Software Support • Server Administration • Kronos / Sage50 and Citrix troubleshooting • Microsoft Entra • Virtualization • Incident Management • Mobile Device Management (MDM) • Microsoft Azure
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
