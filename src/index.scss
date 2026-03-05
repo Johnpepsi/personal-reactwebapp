@@ -92,6 +92,17 @@ p, a, h1, h2, h3, h4, h5, label, button {
   justify-content: center;
 }
 
+// new container
+.items-containers {
+  padding: 1.0% 10%;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+// end //
+
 .light-mode {
   background-color: #f8f9fa;
 
