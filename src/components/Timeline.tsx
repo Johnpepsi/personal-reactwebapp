@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">System Support Tech L2</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina Airport, Saskatchewan</h4>
             <p>
-              Hardware Deployment • Basic Troubleshooting (DNS, DHCP, VPN) • Patching • Preventive Maintenance • Deploy workstations, laptops, and printers • Network Cable Management • Airlines Application support • Software Troubleshooting • Support Microsoft 365 (Exchange Online, Teams, SharePoint, OneDrive)
+              Hardware Deployment • Azure AD / Entra ID • Patching • Preventive Maintenance • Deploy workstations, laptops, and printers • Network Cable Management • Airlines Application support • Software Troubleshooting • Support Microsoft 365 (Exchange Online, Teams, SharePoint, OneDrive)
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -35,7 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">IT Administrator</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, Saskatchewan</h4>
             <p>
-              Active Directory • Group Policy (GPO) • User provisioning/access control • TCP/IP troubleshooting • Role-based access control (RBAC) • DHCP and IP management • John Deere Software Support • Server Administration • SharePoint Administration • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
+              Active Directory • Troubleshoot basic networking (DNS, DHCP, VPN) • Manage Group Policy (GPO) • User provisioning/access control • TCP/IP troubleshooting • Role-based access control (RBAC) • DHCP and IP management • John Deere Software Support • Server Administration • SharePoint Administration • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
