@@ -1,14 +1,14 @@
 import React from "react";
 import mock01 from '../assets/images/mock08.png';
-import mock02 from '../assets/images/mock02.png';
-import mock03 from '../assets/images/mock03.png';
+import mock02 from '../assets/images/mock08.png';
+import mock03 from '../assets/images/mock04.png';
 import mock04 from '../assets/images/mock04.png';
-import mock05 from '../assets/images/mock05.png';
-import mock06 from '../assets/images/mock06.png';
-import mock07 from '../assets/images/mock07.png';
-import mock08 from '../assets/images/mock08.png';
-import mock09 from '../assets/images/mock09.png';
-import mock10 from '../assets/images/mock07.png';
+import mock05 from '../assets/images/mock04.png';
+import mock06 from '../assets/images/mock04.png';
+import mock07 from '../assets/images/mock08.png';
+import mock08 from '../assets/images/mock04.png';
+import mock09 from '../assets/images/mock04.png';
+import mock10 from '../assets/images/mock04.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -37,26 +37,26 @@ function Project() {
                 <a href="https://github.com/Johnpepsi/QR-imageproject/" target="_blank" rel="noreferrer"><h2>Scanner QR Github</h2></a>
                 <p>My first developed QR-Image project where I implemented URL link to my GitHub. I NPM module, JavaScript, Git bash scripting. By implementing the right command tools, I successfully made QR to prompt my personal website.</p>
             </div>
-            <div className="project">
+            {/* <div className="project">
                 <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>WeManage: Real Estate Asset Management</h2></a>
                 <p>This mobile application allows realtors in Japan to securely manage their property information and view future income predictions. This app is built with Ruby on Rails and JavaScript.</p>
-            </div>
-            <div className="project">
+            </div> */}
+            {/* <div className="project">
                 <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2>First Portfolio Website</h2></a>
                 <p>Here is my very own portfolio website which contains my personal and contact information. The website is hosted online cloud platform hosting service where I utilized vercel for my all personal stuff.</p>
-            </div>
-            <div className="project">
+            </div> */}
+            {/* <div className="project">
                 <a href="https://johnpalaganas-simongame.netlify.app/" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://johnpalaganas-simongame.netlify.app/" target="_blank" rel="noreferrer"><h2>Simon Game Challenge</h2></a>
                 <p>I learned to use calling the Properties, using array in such a clean code, also by importing JSX file in the right path of components.</p>
-            </div>
-            <div className="project">
+            </div> */}
+            {/* <div className="project">
                 <a href="https://padayon.netlify.app/#home" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://padayon.netlify.app/#home" target="_blank" rel="noreferrer"><h2>Ecommerce Project</h2></a>
                 <p>Tech Stack: React, Node.js, Express, MongoDB. This project is a full-stack e-commerce application built with React for the front end and Node.js/Express for the back end.</p>
-            </div>
+            </div> */}
             <div className="project">
                 <a href="https://jpal-pokemonapi.netlify.app/" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://jpal-pokemonapi.netlify.app/" target="_blank" rel="noreferrer"><h2>Pokemon Search Api</h2></a>
