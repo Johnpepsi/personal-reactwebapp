@@ -17,19 +17,26 @@ const labelsFirst = [
     "Python",
     "SQL",
     "PostgreSQL",
-    "Postman"
+    "Postman",
+    "RESTful Services",
 ];
 
 const labelsSecond = [
     "Git",
     "GitHub Actions",
+    "Scripting",
+    "YAML",
     "Docker",
     "AWS",
     "Azure",
     "Linux",
+    "Python",
     "GitLab",
     "Jenkins",
-    "Programming",
+    "Infrastructure as Code (IaC)",
+    "REST",
+    "Grafana",
+    "CI/CD",
 ];
 
 const labelsThird = [
@@ -65,7 +72,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
                     <h3>DevOps & Automation</h3>
-                    <p>Deployed and managed Docker containers on Ubuntu servers to host internal tools and web applications. Implemented bind mounts, networking configuration, and restart policies to ensure service persistence and reliability.</p>
+                    <p>Built and managed Docker containers on Ubuntu servers to host internal tools and web applications, configuring container networking, persistent storage, and restart policies to ensure service reliability. Maintained self-hosted application environments using Linux servers. </p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
