@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">System Support Tech L2</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina Airport, Saskatchewan</h4>
             <p>
-              Hardware Deployment • Azure AD / Entra ID • Patching • Preventive Maintenance • Deploy workstations, laptops, and printers • Network Cable Management • Airlines Application support • Software Troubleshooting • Support Microsoft 365 (Exchange Online, Teams, SharePoint, OneDrive)
+              Azure AD / Entra ID • Patching • Preventive Maintenance • Deploy workstations, laptops, and printers • Network Cable Management • Airlines Application support • Server Installation • Software Troubleshooting • Support Microsoft 365 (Exchange Online, Teams, SharePoint, OneDrive)
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
